@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# ignore all files in the /log directory
+/logs
+
+# ignore Intellij's internal project files
+.idea
+
+# ignore all Maven build artifacts
+/target
+
+**/.DS_Store
